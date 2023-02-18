@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Sourav Khandelwal - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Sourav Khandelwal
+Sourav Khandelwal
+Data Analytics| Credit-Risk| Banking
 
 Show Contacts
 
 Email
-richard@example.com
+souravjhalani@yahoo.com
 
 Phone
-+1 (213) 352-2795
++44 0 7706963156
 
 Birthday
-June 23, 1982
+Oct 10, 1988
 
 Location
-Sacramento, California, USA
+London, UK
 
 # navbar
 
