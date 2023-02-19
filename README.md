@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Installing Portfolio
 
 To install this portfolio, follow these steps:
 
