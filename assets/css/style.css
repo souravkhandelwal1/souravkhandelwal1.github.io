@@ -4,7 +4,7 @@
 
 
 /**
- * copyright 2022 @codewithsadee
+ * copyright 2023 @souravkhandelwal
  */
 
 
@@ -868,7 +868,17 @@ main {
 }
 
 
+.skill-progess-text span {
+  color: var(--vegas-gold);
+  font-weight: var(--fw-400);
+  line-height: 1.6;
+}
 
+.skill-progess-text {
+  color: var(--light-gray);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+}
 
 
 /*-----------------------------------*\
